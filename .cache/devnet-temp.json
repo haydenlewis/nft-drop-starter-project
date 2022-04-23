@@ -1,0 +1,32 @@
+{
+  "program": {
+    "uuid": "2yXhJ8",
+    "candyMachine": "2yXhJ87MtXGJWTXtzYVBpffG7NU1ZCAyHQeRQDf67qds",
+    "collection": "2hUaTxmDBtFr4GsNEt2YHDMhGJ1E2s5zBBoxA6njkxwH"
+  },
+  "items": {
+    "0": {
+      "link": "https://arweave.net/MyJAlxViSkdCb8kPEB2P6DNloxOsXdX047ICjrIA1wQ",
+      "imageLink": "https://arweave.net/pESiKfypfuoIkODdLsp9VCSTUK_HPFRnKKu5DznspiA?ext=jpeg",
+      "name": "Hayden's Birthday",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "1": {
+      "link": "https://arweave.net/osn_tMGdYEY_H3j99PfSGEIUZBynaVijD_L0J8f_lv0",
+      "imageLink": "https://arweave.net/szwVOINFOfedgTFIUanShjyhb2Wg0NTNVIcu4pXkYoI?ext=jpeg",
+      "name": "Pocket Day",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "2": {
+      "link": "https://arweave.net/obDFzOXoCP5RyhTiN-qhlOb9AfpOgYe72r3yGTmqzb8",
+      "imageLink": "https://arweave.net/Ni7_7p-9BHWUcep2ubE8Ob5fGyuEjBsot-cC53llrfQ?ext=jpeg",
+      "name": "Spirit Day",
+      "onChain": true,
+      "verifyRun": true
+    }
+  },
+  "env": "devnet",
+  "cacheName": "temp"
+}

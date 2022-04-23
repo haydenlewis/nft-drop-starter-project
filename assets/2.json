@@ -1,0 +1,13 @@
+{
+    "name": "Spirit Day",
+    "symbol": "Spirit",
+    "image": "2.jpeg",
+    "properties": {
+        "files": [
+            {"url": "0o.jpeg",
+             "type": "image/jpeg"}
+        ],
+        "creators": [
+            {"address": "5zHQ41dAKZ3DDWuWj819NKYW1LgJd3o9FDnH6Ax3N2RK", "share": 100}]
+    }
+}
